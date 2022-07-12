@@ -1,0 +1,4 @@
+https://voz.vn/t/su-dung-vm-lam-development-server-tren-may-chinh.570751/
+dùng tunnel export map port của VM ra domain thôi. Đơn giản thì có ngrok hoặc 
+cloudflared tunnel với tính năng quick tunnel. Còn muốn làm rộng hơn với 
+cloudflared tunnel thì setup cloudflare for teams (Zero Trust).
